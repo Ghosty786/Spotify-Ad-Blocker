@@ -1,5 +1,4 @@
 LIBRARY	"chrome_elf"
-
 EXPORTS
 ClearReportsBetween_ExportThunk
 CrashForException_ExportThunk

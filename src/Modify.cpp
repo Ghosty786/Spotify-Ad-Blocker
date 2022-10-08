@@ -4,8 +4,6 @@
 
 //#include <include/capi/cef_urlrequest_capi.h>
 
-
-
 /*
 * 
 * Black banner still show even libcef hooked.
